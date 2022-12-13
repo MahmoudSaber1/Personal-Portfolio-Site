@@ -304,6 +304,12 @@ section {
     min-width: 49%;
 }
 
+.about .content .text-box p {
+    line-height: 1.7;
+    letter-spacing: 1px;
+    font-weight: 300;
+}
+
 .about .content .text-box p span {
     font-weight: 700;
 }
